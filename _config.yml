@@ -9,7 +9,7 @@
 # Basic Site Settings
 locale                   : "en-US"
 site_theme               : "default"
-title                    : "Academic Website"
+title                    : "Home"
 title_separator          : "-"
 name                     : &name "Website of Melanie Angela Zaidel"
 description              : &description "My Website"
@@ -27,7 +27,7 @@ author:
   pronouns         : "she/her" 
   bio              : "Ph.D. Candidate in Physics at The Ohio State University."
   location         : "Columbus, OH, USA"
-  employer         : "Center for Cosmology and AstroParticle Physics (CCAPP), The Ohio State University"
+  employer         : "CCAPP, OSU"
   uri              : # URL
   email            : "zaidel.3@osu.edu" 
 
