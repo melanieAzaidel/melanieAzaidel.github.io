@@ -15,7 +15,7 @@ I’m originally from Hershey, Pennsylvania, but have spent a large part of my l
 
 For more information, check out the other pages on this site.
 
-![Presentation](images/presentation1.png "CCAPP Symposium Presentation")
+![Presentation]("images/ASPIRE Presentation.JPG" "CCAPP Symposium Presentation")
 
 ![URSA](images/ursa2024facilitators.jpg "URSA 2024 Facilitator Team")
 
