@@ -1,0 +1,10 @@
+body {
+  background-color: #f0f0f0;
+  color: #222;
+}
+
+.masthead {
+  background-image: url('/images/crab_w44.jpg');
+  background-size: cover;
+  background-position: center;
+}
