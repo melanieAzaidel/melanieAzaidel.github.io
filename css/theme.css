@@ -1,0 +1,35 @@
+/* Design tokens — edit these to change the site's art direction. */
+:root {
+  /* Colors */
+  --color-bg: #18123a;
+  --color-text: #d1d1d1;
+  --color-heading: #7060ff;
+  --color-accent: #2f5e79;
+  --color-link: #0a9bd4;
+  --color-link-hover: #ff0000;
+  --color-muted: #424242;
+  --color-border: #0c00b9;
+
+  /* Fonts */
+  --font-body: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Helvetica, Arial, sans-serif;
+  --font-heading: var(--font-body);
+
+  /* Nav bar background image (path relative to css/style.css) */
+  --nav-bg-image: url("../images/nav-bg.jpg");
+  --nav-link-bg: #07012799;
+
+  /* Inset panel (e.g. profile/social card) */
+  --color-inset-bg: #241c56;
+  --inset-bg-image: url("../images/inset-bg.png");
+  --inset-bg-opacity: 0.3;  --inset-bg-size: 800%;
+  --inset-bg-position: 32% 90%;
+
+  /* Quick Links panel */
+  --quicklinks-bg-image: url("../images/quicklinks-bg.png");
+  --quicklinks-bg-opacity: 0.3;
+  --quicklinks-bg-size: 120%;
+  --quicklinks-bg-position: 1% 70%;
+
+  /* Layout */
+  --max-width: 960px;
+}
